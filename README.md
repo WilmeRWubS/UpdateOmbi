@@ -31,7 +31,7 @@ Look for:
 
 ## Based on
 
-https://github.com/lordvon/OMBI-Update-Script  
+https://github.com/lordvon01/updateOMBI  
 https://github.com/carnivorouz/updateOmbi
 
 Output and prompts are in Dutch.
