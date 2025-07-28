@@ -34,4 +34,4 @@ Look for:
 https://github.com/lordvon01/updateOMBI  
 https://github.com/carnivorouz/updateOmbi
 
-Output and prompts are in Dutch.
+Output and prompts are in Dutch. Might change later to English
